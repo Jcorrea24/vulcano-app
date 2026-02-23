@@ -1,7 +1,7 @@
 # 🌋 Proyecto Vulcano (Frontend)
 ### **Aprendizaje Interactivo a Través de la Gamificación**
 
-**Vulcano App** es una plataforma educativa innovadora diseñada para transformar el aprendizaje del desarrollo de software en una experiencia lúdica e interactiva. Al integrar dinámicas de gamificación, permitimos que los estudiantes consoliden conceptos técnicos del primer semestre mientras fortalecen su lógica de programación en un entorno divertido y desafiante.
+**Vulcano App** es una plataforma educativa innovadora diseñada para transformar el aprendizaje del desarrollo de software en una experiencia lúdica e interactiva. Al integrar dinámicas de gamificación, permitimos que los estudiantes consoliden conceptos técnicos de la carrera de Desarrollo de Software mientras fortalecen su lógica de programación en un entorno divertido y desafiante.
 
 ---
 
